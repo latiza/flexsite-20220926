@@ -1,0 +1,5 @@
+Az oldalt tartalmazó konténered szélessége 1000 px legyen, középre helyezve az oldalon.
+A fejléc háttérszíne: aqua; magassága 150px.
+A lábléc színe: blue; magassága szintén 150px.
+A tartalom elhelyezéséhez a flex elrendezést használd. A magassága 600px legyen.   
+A navbar oldala orange színű, a sidebar oldala purple színű, a maincontent színe red legyen. A maincontent szélessége a duplája legyen a két oldalinak. (flex-grow) A maincontent mellett jobbra és balra 25px margót állíts be.
